@@ -1,2 +1,2 @@
 # Weather-Forecast-Website:
-Under Progress  :  0%  (3/5/23)
+Just a simple website which uses the openweather API to fetch the weather of a city
