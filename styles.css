@@ -1,0 +1,48 @@
+.img1{
+  height: 120px;
+}
+
+#weather {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-control {
+  display: inline-block;
+  width: 70%;
+  margin-right: 10px;
+}
+
+.btn-primary {
+  background-color: #4CAF50;
+  border-color: #4CAF50;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: -5px;
+}
+
+.btn-primary:hover {
+  background-color: #3c8c40;
+  border-color: #3c8c40;
+}
+
+.card {
+  margin-top: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+}
+
+.card-header {
+  background-color: #4CAF50;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
+.card-body {
+  text-align: center;
+}
