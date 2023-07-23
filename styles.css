@@ -1,3 +1,8 @@
+body{
+  background-image: url("background.jpg");
+  background-size: cover;
+}
+
 .img1{
   height: 120px;
 }
@@ -45,4 +50,16 @@
 
 .card-body {
   text-align: center;
+}
+
+.container{
+  display: flexbox;
+  
+}
+
+@media (max-width:200px)
+{
+  body{
+    background-size: cover;
+  }
 }
